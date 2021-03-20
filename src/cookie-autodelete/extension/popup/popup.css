@@ -1,0 +1,54 @@
+.addHover:hover {
+  cursor: pointer;
+}
+
+.alertPreWrap {
+  white-space: pre-wrap;
+}
+
+label:hover {
+  background-color: #d3d3d3;
+  cursor: pointer;
+}
+
+@keyframes successAnimation {
+  0% {
+  }
+  10% {
+    background-color: #4caf50;
+    border-color: #4caf50;
+  }
+  50% {
+    background-color: #4caf50;
+    border-color: #4caf50;
+  }
+  100% {
+  }
+}
+
+.successAnimated button {
+  animation: successAnimation 1.5s ease-in-out;
+}
+
+@keyframes failureAnimation {
+  0% {
+  }
+  10% {
+    background-color: #f44336;
+    border-color: #f44336;
+  }
+  50% {
+    background-color: #f44336;
+    border-color: #f44336;
+  }
+  100% {
+  }
+}
+
+.failureAnimated button {
+  animation: failureAnimation 1.5s ease-in-out;
+}
+
+.table {
+  margin-bottom: 0;
+}

@@ -1,0 +1,212 @@
+{
+    "about_add_new_rule": {
+        "message": "Cuir Riail Nua Leis"
+    },
+    "about_ext_description": {
+        "message": "Criptigh an Gr\u00e9as\u00e1n! Bain \u00fas\u00e1id as sl\u00e1nd\u00e1il HTTPS go huathoibr\u00edoch ar go leor su\u00edomh."
+    },
+    "about_ext_name": {
+        "message": "HTTPS Everywhere"
+    },
+    "about_rulesets_version": {
+        "message": "Leagan na rialacha le haghaidh"
+    },
+    "about_title": {
+        "message": "Faoi HTTPS Everywhere"
+    },
+    "about_version": {
+        "message": "Leagan"
+    },
+    "cancel_he_blocking_explainer": {
+        "message": "Breeze noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version."
+    },
+    "go_back": {
+        "message": "Go Back"
+    },
+    "no_https_disclaimer": {
+        "message": "WARNING: If you choose to continue to this page insecurely, Breeze cannot protect your privacy and security.\nNEVER ENTER ANY PERSONAL INFORMATION INTO A SITE THAT DOES NOT SUPPORT HTTPS\nAll of your activity on this site including the pages you visit, any passwords, credit card info, or personal details manually entered will be visible in plain text to any servers or individuals listening in the middle and should be assumed compromised."
+    },
+    "cancel_he_blocking_network": {
+        "message": "ionsaithe \u00edosghr\u00e1daithe ar an l\u00edonra"
+    },
+    "cancel_http_once": {
+        "message": "Open insecure page for this session only"
+    },
+    "cancel_open_page": {
+        "message": "Oscail leathanach neamhshl\u00e1n"
+    },
+    "chrome_add_new_rule": {
+        "message": "Cuir riail nua i bhfeidhm ar an su\u00edomh seo"
+    },
+    "chrome_add_rule": {
+        "message": "Cuir riail i bhfeidhm ar an su\u00edomh seo"
+    },
+    "chrome_always_https_for_host": {
+        "message": "Bain \u00fas\u00e1id as https i gc\u00f3na\u00ed leis an \u00f3str\u00edomhaire seo"
+    },
+    "chrome_disable_on_this_site": {
+        "message": "D\u00edchumasaigh HTTPS Everywhere ar an su\u00edomh seo"
+    },
+    "chrome_enable_on_this_site": {
+        "message": "Cumasaigh HTTPS Everywhere ar an su\u00edomh seo"
+    },
+    "chrome_experimental_rules": {
+        "message": "Rialacha turgnamhacha"
+    },
+    "chrome_experimental_rules_description": {
+        "message": "D'fh\u00e9adfadh seo a bheith ina ch\u00fais le rabhaidh n\u00f3 le hearr\u00e1id\u00ed. D\u00edchumasaithe de r\u00e9ir r\u00e9amhshocraithe."
+    },
+    "chrome_hide_advanced": {
+        "message": "Folaigh na hardroghanna"
+    },
+    "chrome_host": {
+        "message": "\u00d3str\u00edomhaire:"
+    },
+    "chrome_redirect_to": {
+        "message": "Atreoraigh chuig"
+    },
+    "chrome_regex": {
+        "message": "A mheaitse\u00e1lann slonn"
+    },
+    "chrome_rule_name": {
+        "message": "Ainm na rialach"
+    },
+    "chrome_settings_for_this_site_explained": {
+        "message": "As you browse different websites, you can change your preferences for each website"
+    },
+    "chrome_settings_for_this_site_header": {
+        "message": "Socruithe don su\u00edomh seo"
+    },
+    "chrome_settings_for_this_site_subheader": {
+        "message": "Change your preferences for encrypted connections"
+    },
+    "chrome_show_advanced": {
+        "message": "Taispe\u00e1in na hardroghanna"
+    },
+    "chrome_stable_rules": {
+        "message": "Rialacha cobhsa\u00ed"
+    },
+    "chrome_stable_rules_description": {
+        "message": "F\u00f3rs\u00e1il ceangal criptithe leis na su\u00edmh seo:"
+    },
+    "chrome_status_cancel_button": {
+        "message": "Cuir ar ceal"
+    },
+    "menu_donate_eff_imperative": {
+        "message": "Tabhair s\u00ednti\u00fas airgid don EFF"
+    },
+    "menu_encryptAllSitesEligibleOff": {
+        "message": "Encrypt All Sites Eligible is OFF"
+    },
+    "menu_encryptAllSitesEligibleOn": {
+        "message": "Encrypt All Sites Eligible is ON"
+    },
+    "menu_globalDisable": {
+        "message": "HTTPS Everywhere M\u00daCHTA"
+    },
+    "menu_globalEnable": {
+        "message": "HTTPS Everywhere AR SI\u00daL"
+    },
+    "menu_httpNoWhereExplainedAllowed": {
+        "message": "Unencrypted requests are currently allowed"
+    },
+    "menu_httpNoWhereExplainedBlocked": {
+        "message": "Unencrypted requests are currently blocked"
+    },
+    "menu_httpNoWhereMore": {
+        "message": "This mode blocks unencrypted content and requests"
+    },
+    "menu_observatory": {
+        "message": "Sainroghanna SSL Observatory"
+    },
+    "menu_seeLess": {
+        "message": "See less"
+    },
+    "menu_seeMore": {
+        "message": "Tuilleadh"
+    },
+    "menu_showCounter": {
+        "message": "Taispe\u00e1in \u00c1iritheoir"
+    },
+    "menu_viewAllRules": {
+        "message": "Taispe\u00e1in Gach Riail"
+    },
+    "onboarding_footer": {
+        "message": "HTTPS Everywhere is an EFF project"
+    },
+    "onboarding_header": {
+        "message": "HTTPS Everywhere has been updated!"
+    },
+    "onboarding_intro": {
+        "message": "Criptigh an Gr\u00e9as\u00e1n! Bain \u00fas\u00e1id as sl\u00e1nd\u00e1il HTTPS go huathoibr\u00edoch ar go leor su\u00edomh."
+    },
+    "options_addDisabledSite": {
+        "message": "Add Disabled Site"
+    },
+    "options_addUpdateChannel": {
+        "message": "Cain\u00e9al Nuashonraithe Nua"
+    },
+    "options_advancedSettings": {
+        "message": "Ardsocruithe"
+    },
+    "options_autoUpdateRulesets": {
+        "message": "Nuashonraigh rialacha go huathoibr\u00edoch"
+    },
+    "options_debuggingRulesets": {
+        "message": "Debugging Rulesets (advanced)"
+    },
+    "options_delete": {
+        "message": "Scrios"
+    },
+    "options_disabledUrlsListed": {
+        "message": "Su\u00edmh ar ar d\u00edchumasa\u00edodh HTTPS Everywhere"
+    },
+    "options_enableMixedRulesets": {
+        "message": "Cumasaigh rialacha d'\u00e1bhar measctha"
+    },
+    "options_enterDisabledSite": {
+        "message": "Enter disabled site"
+    },
+    "options_enterUpdateChannelName": {
+        "message": "Cuir isteach ainm an chain\u00e9il nuashonraithe"
+    },
+    "options_generalSettings": {
+        "message": "Socruithe Ginear\u00e1lta"
+    },
+    "options_settings": {
+        "message": "Socruithe"
+    },
+    "options_showDevtoolsTab": {
+        "message": "Taispe\u00e1in cluais\u00edn na n-uirlis\u00ed forbartha"
+    },
+    "options_storedRulesetsVersion": {
+        "message": "Leagan na rialacha at\u00e1 st\u00f3r\u00e1ilte:"
+    },
+    "options_update": {
+        "message": "Nuashonr\u00fa"
+    },
+    "options_updateChannels": {
+        "message": "Cain\u00e9il Nuashonraithe"
+    },
+    "options_updateChannelsWarning": {
+        "message": "Rabhadh: M\u00e1 \u00fas\u00e1ideann t\u00fa cain\u00e9al nuashonraithe, tugann s\u00e9 deis do dhrochdhaoine ionsa\u00ed a dh\u00e9anamh ar do bhrabhs\u00e1la\u00ed. N\u00e1 hathraigh aon rud sa rann\u00e1n seo mura bhfuil t\u00fa l\u00e1nchinnte!"
+    },
+    "options_updatesLastChecked": {
+        "message": "Lorga\u00edodh nuashonr\u00fa:"
+    },
+    "options_updatesLastCheckedNever": {
+        "message": "n\u00ed lorga\u00edodh riamh"
+    },
+    "options_userRulesListed": {
+        "message": "Rialacha \u00das\u00e1ideora HTTPS Everywhere"
+    },
+    "prefs_export_settings": {
+        "message": "Easp\u00f3rt\u00e1il Socruithe"
+    },
+    "prefs_reset_defaults": {
+        "message": "Fill ar R\u00e9amhshocruithe"
+    },
+    "prefs_reset_defaults_message": {
+        "message": "Fillfidh gach tacar rialacha ar a r\u00e9amhshocr\u00fa. An bhfuil t\u00fa cinnte?"
+    }
+}

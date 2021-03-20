@@ -1,0 +1,212 @@
+{
+    "about_add_new_rule": {
+        "message": "Afegeix una regla nova"
+    },
+    "about_ext_description": {
+        "message": "Xifra la Web! Fes servir autom\u00e0ticament la seguretat HTTPS a molts llocs."
+    },
+    "about_ext_name": {
+        "message": "HTTPS Everywhere"
+    },
+    "about_rulesets_version": {
+        "message": "Versi\u00f3 del conjunt de regles per a"
+    },
+    "about_title": {
+        "message": "Quant a l'HTTPS Everywhere"
+    },
+    "about_version": {
+        "message": "Versi\u00f3"
+    },
+    "cancel_he_blocking_explainer": {
+        "message": "Breeze noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version."
+    },
+    "go_back": {
+        "message": "Go Back"
+    },
+    "no_https_disclaimer": {
+        "message": "WARNING: If you choose to continue to this page insecurely, Breeze cannot protect your privacy and security.\nNEVER ENTER ANY PERSONAL INFORMATION INTO A SITE THAT DOES NOT SUPPORT HTTPS\nAll of your activity on this site including the pages you visit, any passwords, credit card info, or personal details manually entered will be visible in plain text to any servers or individuals listening in the middle and should be assumed compromised."
+    },
+    "cancel_he_blocking_network": {
+        "message": "atacs de degradaci\u00f3 basats en xarxa"
+    },
+    "cancel_http_once": {
+        "message": "Obre la p\u00e0gina insegura nom\u00e9s per a aquesta sessi\u00f3"
+    },
+    "cancel_open_page": {
+        "message": "Obre la p\u00e0gina no segura"
+    },
+    "chrome_add_new_rule": {
+        "message": "Afegeix una regla nova per a aquest lloc"
+    },
+    "chrome_add_rule": {
+        "message": "Afegeix una regla per a aquest lloc"
+    },
+    "chrome_always_https_for_host": {
+        "message": "Utilitza sempre https per a aquest host"
+    },
+    "chrome_disable_on_this_site": {
+        "message": "Inhabilita HTTPS Everywhere en aquest lloc"
+    },
+    "chrome_enable_on_this_site": {
+        "message": "Habilita HTTPS Everywhere en aquest lloc"
+    },
+    "chrome_experimental_rules": {
+        "message": "Regles experimentals"
+    },
+    "chrome_experimental_rules_description": {
+        "message": "Pot causar avisos i problemes. Desactivat per defecte."
+    },
+    "chrome_hide_advanced": {
+        "message": "Amaga l'avan\u00e7at"
+    },
+    "chrome_host": {
+        "message": "Host:"
+    },
+    "chrome_redirect_to": {
+        "message": "Redirecciona a"
+    },
+    "chrome_regex": {
+        "message": "Trobant la regex"
+    },
+    "chrome_rule_name": {
+        "message": "Nom de la regla"
+    },
+    "chrome_settings_for_this_site_explained": {
+        "message": "A mesura que navegueu per diferents llocs web, podreu canviar les vostres prefer\u00e8ncies en cadascun d'ells"
+    },
+    "chrome_settings_for_this_site_header": {
+        "message": "Configuraci\u00f3 d'aquest lloc"
+    },
+    "chrome_settings_for_this_site_subheader": {
+        "message": "Canvieu les prefer\u00e8ncies per a les connexions xifrades"
+    },
+    "chrome_show_advanced": {
+        "message": "Mostra l'avan\u00e7at"
+    },
+    "chrome_stable_rules": {
+        "message": "Regles estables"
+    },
+    "chrome_stable_rules_description": {
+        "message": "For\u00e7a les connexions encriptades per als llocs web seg\u00fcents:"
+    },
+    "chrome_status_cancel_button": {
+        "message": "Cancel\u00b7la"
+    },
+    "menu_donate_eff_imperative": {
+        "message": "D\u00f3na a l'EEF"
+    },
+    "menu_encryptAllSitesEligibleOff": {
+        "message": "Xifra tots els llocs est\u00e0 inhabilitat"
+    },
+    "menu_encryptAllSitesEligibleOn": {
+        "message": "Xifra tots els llocs est\u00e0 habilitat"
+    },
+    "menu_globalDisable": {
+        "message": "HTTPS Everywhere est\u00e0 inhabilitat"
+    },
+    "menu_globalEnable": {
+        "message": "HTTPS Everywhere est\u00e0 habilitat"
+    },
+    "menu_httpNoWhereExplainedAllowed": {
+        "message": "Les sol\u00b7licituds sense xifrat estan permeses actualment "
+    },
+    "menu_httpNoWhereExplainedBlocked": {
+        "message": "Les sol\u00b7licituds sense xifrat estan blocades actualment"
+    },
+    "menu_httpNoWhereMore": {
+        "message": "Aquest mode bloca el contingut i les sol\u00b7licituds sense xifrat"
+    },
+    "menu_observatory": {
+        "message": "Prefer\u00e8ncies de SSL Observatory"
+    },
+    "menu_seeLess": {
+        "message": "Mostra'n menys"
+    },
+    "menu_seeMore": {
+        "message": "Mostra'n m\u00e9s"
+    },
+    "menu_showCounter": {
+        "message": "Mostra el comptador"
+    },
+    "menu_viewAllRules": {
+        "message": "Ensenya totes les regles"
+    },
+    "onboarding_footer": {
+        "message": "L'HTTPS Everywhere \u00e9s un projecte de l'EFF"
+    },
+    "onboarding_header": {
+        "message": "S'ha actualitzat l'HTTPS Everywhere!"
+    },
+    "onboarding_intro": {
+        "message": "Xifra la Web! Fes servir autom\u00e0ticament la seguretat HTTPS a molts llocs."
+    },
+    "options_addDisabledSite": {
+        "message": "Afegeix un lloc desactivat"
+    },
+    "options_addUpdateChannel": {
+        "message": "Afegeix un canal d'actualitzaci\u00f3"
+    },
+    "options_advancedSettings": {
+        "message": "Configuracions avan\u00e7ades"
+    },
+    "options_autoUpdateRulesets": {
+        "message": "Actualitza autom\u00e0ticament el conjunt de regles"
+    },
+    "options_debuggingRulesets": {
+        "message": "Depuraci\u00f3 dels conjunts de regles (avan\u00e7at)"
+    },
+    "options_delete": {
+        "message": "Suprimeix"
+    },
+    "options_disabledUrlsListed": {
+        "message": "HTTPS Everywhere per llocs web Desactivat"
+    },
+    "options_enableMixedRulesets": {
+        "message": "Permet contingut amb conjunt de regles mixt"
+    },
+    "options_enterDisabledSite": {
+        "message": "Introdu\u00efu un lloc desactivat"
+    },
+    "options_enterUpdateChannelName": {
+        "message": "Introdu\u00efu el nom del canal d'actualitzaci\u00f3"
+    },
+    "options_generalSettings": {
+        "message": "Configuraci\u00f3 general"
+    },
+    "options_settings": {
+        "message": "Configuraci\u00f3"
+    },
+    "options_showDevtoolsTab": {
+        "message": "Mostra la pestanya d'eines de desenvolupador"
+    },
+    "options_storedRulesetsVersion": {
+        "message": "Versi\u00f3 de regles emmagatzemades:"
+    },
+    "options_update": {
+        "message": "Actualitza"
+    },
+    "options_updateChannels": {
+        "message": "Actualitza els canals"
+    },
+    "options_updateChannelsWarning": {
+        "message": "Advert\u00e8ncia: afegir canals d'actualitzaci\u00f3 pot provocar que els atacants segrestin el vostre navegador. Nom\u00e9s editeu aquesta secci\u00f3 si sabeu el que feu!"
+    },
+    "options_updatesLastChecked": {
+        "message": "Darrera verificaci\u00f3 d'actualitzacions:"
+    },
+    "options_updatesLastCheckedNever": {
+        "message": "mai"
+    },
+    "options_userRulesListed": {
+        "message": "Regles d'Usuari per HTTPS Everywhere"
+    },
+    "prefs_export_settings": {
+        "message": "Configuraci\u00f3 d'exportaci\u00f3"
+    },
+    "prefs_reset_defaults": {
+        "message": "Torna a les opcions per defecte"
+    },
+    "prefs_reset_defaults_message": {
+        "message": "Aix\u00f2 reiniciar\u00e0 cada conjunt de regles als valors per defecte. Voleu continuar?"
+    }
+}

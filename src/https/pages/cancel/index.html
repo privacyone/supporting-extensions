@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Breeze Warning</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="/images/icons/icon.png">
+  </head>
+  <body>
+    <div class="content">
+      <h1>
+        <img src="/images/breeze_logo.png" alt="Breeze logo">
+        <span>HTTPS Warning</span> <hr>
+      </h1>
+
+      <p data-i18n="cancel_he_blocking_explainer"></p>
+
+      <p id="url-paragraph">
+        <span id="url-label">URL: </span><span id="url-value"></span>
+      </p>
+
+      <hr>
+      <div class="actions">
+        <button id="go-back-button" data-i18n="go_back"></button>
+        <br><b>OR</b><br>
+        <button id="open-url-button" data-i18n="cancel_open_page"></button>
+        <button id="http-once-button" data-i18n="cancel_http_once"></button>
+      </div>
+
+      <script src="../translation.js"></script>
+      <script src="../util.js"></script>
+      <script src="ux.js"></script>
+    </div>
+    <div class="disclaimer" data-i18n="no_https_disclaimer"></div>
+  </body>
+</html>

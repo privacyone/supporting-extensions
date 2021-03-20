@@ -1,0 +1,212 @@
+{
+    "about_add_new_rule": {
+        "message": "\u00daj szab\u00e1ly hozz\u00e1ad\u00e1s"
+    },
+    "about_ext_description": {
+        "message": "Titkos\u00edtsa a Web-et! Automatikusan haszn\u00e1lja a HTTPS titkos\u00edt\u00e1st a legt\u00f6bb oldalon."
+    },
+    "about_ext_name": {
+        "message": "HTTPS Everywhere"
+    },
+    "about_rulesets_version": {
+        "message": "Szab\u00e1lyk\u00e9szlet verzi\u00f3k ehhez:"
+    },
+    "about_title": {
+        "message": "A HTTPS Everywhere n\u00e9vjegye"
+    },
+    "about_version": {
+        "message": "Verzi\u00f3"
+    },
+    "cancel_he_blocking_explainer": {
+        "message": "Breeze noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version."
+    },
+    "go_back": {
+        "message": "Go Back"
+    },
+    "no_https_disclaimer": {
+        "message": "WARNING: If you choose to continue to this page insecurely, Breeze cannot protect your privacy and security.\nNEVER ENTER ANY PERSONAL INFORMATION INTO A SITE THAT DOES NOT SUPPORT HTTPS\nAll of your activity on this site including the pages you visit, any passwords, credit card info, or personal details manually entered will be visible in plain text to any servers or individuals listening in the middle and should be assumed compromised."
+    },
+    "cancel_he_blocking_network": {
+        "message": "h\u00e1l\u00f3zati b\u00e1zis\u00fa lefokoz\u00f3 t\u00e1mad\u00e1s"
+    },
+    "cancel_http_once": {
+        "message": "Nem biztons\u00e1gos oldal megnyit\u00e1sa csak ezen munkafoly. k\u00f6zben"
+    },
+    "cancel_open_page": {
+        "message": "Nem biztons\u00e1gos oldalak megnyit\u00e1sa"
+    },
+    "chrome_add_new_rule": {
+        "message": "\u00daj szab\u00e1ly az oldalhoz"
+    },
+    "chrome_add_rule": {
+        "message": "Szab\u00e1ly felv\u00e9tel az oldalhoz"
+    },
+    "chrome_always_https_for_host": {
+        "message": "Mindig https-t haszn\u00e1ljon ehhez a kiszolg\u00e1l\u00f3hoz"
+    },
+    "chrome_disable_on_this_site": {
+        "message": "HTTPS Everywhere kikapcsol\u00e1sa ezen oldaln\u00e1l"
+    },
+    "chrome_enable_on_this_site": {
+        "message": "HTTPS Everywhere bekapcsol\u00e1sa ezen oldaln\u00e1l"
+    },
+    "chrome_experimental_rules": {
+        "message": "K\u00eds\u00e9rleti szab\u00e1lyok"
+    },
+    "chrome_experimental_rules_description": {
+        "message": "Figyelmeztet\u00e9seket \u00e9s megszak\u00edt\u00e1sokat okozhat. Alap\u00e9rtelmez\u00e9sben letiltva."
+    },
+    "chrome_hide_advanced": {
+        "message": "Speci\u00e1lis be\u00e1ll\u00edt\u00e1sok elrejt\u00e9se"
+    },
+    "chrome_host": {
+        "message": "Kiszolg\u00e1l\u00f3:"
+    },
+    "chrome_redirect_to": {
+        "message": "\u00c1tir\u00e1ny\u00edt\u00e1s ide:"
+    },
+    "chrome_regex": {
+        "message": "Illeszked\u0151 regex"
+    },
+    "chrome_rule_name": {
+        "message": "Szab\u00e1ly neve"
+    },
+    "chrome_settings_for_this_site_explained": {
+        "message": "Ahogy k\u00fcl\u00f6nb\u00f6z\u0151 oldalakra navig\u00e1l, megv\u00e1ltoztathatja be\u00e1ll\u00edt\u00e1sait minden egyes oldalhoz."
+    },
+    "chrome_settings_for_this_site_header": {
+        "message": "Ezen oldal be\u00e1ll\u00edt\u00e1sai"
+    },
+    "chrome_settings_for_this_site_subheader": {
+        "message": "Titkos\u00edtott kapcsolatokra vonatkoz\u00f3 be\u00e1ll\u00edt\u00e1sok megv\u00e1ltoztat\u00e1sa"
+    },
+    "chrome_show_advanced": {
+        "message": "Speci\u00e1lis be\u00e1ll\u00edt\u00e1sok megjelen\u00edt\u00e9se"
+    },
+    "chrome_stable_rules": {
+        "message": "Stabil szab\u00e1lyok"
+    },
+    "chrome_stable_rules_description": {
+        "message": "Titkos\u00edtott kapcsolatok k\u00e9nyszer\u00edt\u00e9se ezekhez a weboldalakhoz:"
+    },
+    "chrome_status_cancel_button": {
+        "message": "M\u00e9gsem"
+    },
+    "menu_donate_eff_imperative": {
+        "message": "T\u00e1mogat\u00e1s az EFF-nek"
+    },
+    "menu_encryptAllSitesEligibleOff": {
+        "message": "Minden oldal titkos\u00edt\u00e1sa kikapcsolva"
+    },
+    "menu_encryptAllSitesEligibleOn": {
+        "message": "Minden oldal titkos\u00edt\u00e1sa BEKAPCSOLVA"
+    },
+    "menu_globalDisable": {
+        "message": "HTTPS Everywhere kikapcsolva"
+    },
+    "menu_globalEnable": {
+        "message": "HTTP Everywhere BEKAPCSOLVA"
+    },
+    "menu_httpNoWhereExplainedAllowed": {
+        "message": "A titkos\u00edtatlan lek\u00e9rdez\u00e9sek jelenleg enged\u00e9lyezve vannak"
+    },
+    "menu_httpNoWhereExplainedBlocked": {
+        "message": "A titkos\u00edtatlan lek\u00e9rdez\u00e9sek jelenleg tiltva vannak"
+    },
+    "menu_httpNoWhereMore": {
+        "message": "Ez a m\u00f3d blokkolja a titkos\u00edtatlan tartalmakat \u00e9s k\u00e9relmeket"
+    },
+    "menu_observatory": {
+        "message": "SSL Observatory Preferenci\u00e1k"
+    },
+    "menu_seeLess": {
+        "message": "Kevesebb inf\u00f3"
+    },
+    "menu_seeMore": {
+        "message": "T\u00f6bb inf\u00f3"
+    },
+    "menu_showCounter": {
+        "message": "Mutassa a sz\u00e1ml\u00e1l\u00f3t"
+    },
+    "menu_viewAllRules": {
+        "message": "\u00d6sszes szab\u00e1ly megtekint\u00e9se"
+    },
+    "onboarding_footer": {
+        "message": "A HTTPS Everywhere az EFF egyik projektje"
+    },
+    "onboarding_header": {
+        "message": "A HTTPS Everywhere friss\u00fclt!"
+    },
+    "onboarding_intro": {
+        "message": "Titkos\u00edtsa a Web-et! Automatikusan haszn\u00e1lja a HTTPS titkos\u00edt\u00e1st a legt\u00f6bb oldalon."
+    },
+    "options_addDisabledSite": {
+        "message": "Letiltott oldal hozz\u00e1ad\u00e1sa"
+    },
+    "options_addUpdateChannel": {
+        "message": "Friss\u00edt\u0151 csatorna hozz\u00e1ad\u00e1sa"
+    },
+    "options_advancedSettings": {
+        "message": "Speci\u00e1lis be\u00e1ll\u00edt\u00e1sok"
+    },
+    "options_autoUpdateRulesets": {
+        "message": "Automata friss\u00edt\u00e9s szab\u00e1lyok"
+    },
+    "options_debuggingRulesets": {
+        "message": "Hibakeres\u0151 szab\u00e1lyk\u00e9szlet (speci\u00e1lis)"
+    },
+    "options_delete": {
+        "message": "T\u00f6rl\u00e9s"
+    },
+    "options_disabledUrlsListed": {
+        "message": "HTTPS Everywhere Sites kikapcsolva"
+    },
+    "options_enableMixedRulesets": {
+        "message": "Kevert tartalom be\u00e1ll\u00edt\u00e1sszab\u00e1lyok enged\u00e9lyez\u00e9se"
+    },
+    "options_enterDisabledSite": {
+        "message": "Letiltott oldal megad\u00e1sa"
+    },
+    "options_enterUpdateChannelName": {
+        "message": "Adja meg a Friss\u00edt\u0151 csatorna nev\u00e9t"
+    },
+    "options_generalSettings": {
+        "message": "\u00c1ltal\u00e1nos be\u00e1ll\u00edt\u00e1sok"
+    },
+    "options_settings": {
+        "message": "Be\u00e1ll\u00edt\u00e1sok"
+    },
+    "options_showDevtoolsTab": {
+        "message": "Fejleszt\u0151eszk\u00f6z\u00fck f\u00fcl megjelen\u00edt\u00e9se"
+    },
+    "options_storedRulesetsVersion": {
+        "message": "T\u00e1rolt szab\u00e1lyk\u00e9szletek verzi\u00f3ja:"
+    },
+    "options_update": {
+        "message": "Friss\u00edt\u00e9s"
+    },
+    "options_updateChannels": {
+        "message": "Csatorn\u00e1k friss\u00edt\u00e9se"
+    },
+    "options_updateChannelsWarning": {
+        "message": "Figyelem: A friss\u00edt\u00e9si csatorn\u00e1k hozz\u00e1ad\u00e1s\u00e1val a t\u00e1mad\u00f3k elt\u00e9r\u00edthetik a b\u00f6ng\u00e9sz\u0151j\u00e9t. Csak akkor szerkessze ezt a be\u00e1ll\u00edt\u00e1st, ha tudja mit csin\u00e1l!"
+    },
+    "options_updatesLastChecked": {
+        "message": "Friss\u00edt\u00e9sek utols\u00f3 ellen\u0151rz\u00e9se:"
+    },
+    "options_updatesLastCheckedNever": {
+        "message": "soha"
+    },
+    "options_userRulesListed": {
+        "message": "HTTPS Everywhere felhaszn\u00e1l\u00f3i szab\u00e1lyok"
+    },
+    "prefs_export_settings": {
+        "message": "Be\u00e1ll\u00edt\u00e1sok export\u00e1l\u00e1sa"
+    },
+    "prefs_reset_defaults": {
+        "message": "Vissza\u00e1ll\u00edt\u00e1s alaphelyzetre"
+    },
+    "prefs_reset_defaults_message": {
+        "message": "Ez minden szab\u00e1lybe\u00e1ll\u00edt\u00e1st vissza\u00e1ll\u00edt az alap\u00e9rtelmezett \u00e9rt\u00e9kre. Folytatja?"
+    }
+}

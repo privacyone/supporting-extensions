@@ -1,0 +1,212 @@
+{
+    "about_add_new_rule": {
+        "message": "Legg til ny regel"
+    },
+    "about_ext_description": {
+        "message": "Krypter nettet! Bruk HTTPS-sikkerhet automatisk p\u00e5 mange nettsteder."
+    },
+    "about_ext_name": {
+        "message": "HTTPS Everywhere"
+    },
+    "about_rulesets_version": {
+        "message": "Regelsett versjon for"
+    },
+    "about_title": {
+        "message": "Om HTTPS Everywhere"
+    },
+    "about_version": {
+        "message": "Versjon"
+    },
+    "cancel_he_blocking_explainer": {
+        "message": "Breeze noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version."
+    },
+    "go_back": {
+        "message": "Go Back"
+    },
+    "no_https_disclaimer": {
+        "message": "WARNING: If you choose to continue to this page insecurely, Breeze cannot protect your privacy and security.\nNEVER ENTER ANY PERSONAL INFORMATION INTO A SITE THAT DOES NOT SUPPORT HTTPS\nAll of your activity on this site including the pages you visit, any passwords, credit card info, or personal details manually entered will be visible in plain text to any servers or individuals listening in the middle and should be assumed compromised."
+    },
+    "cancel_he_blocking_network": {
+        "message": "nettverksbaserte nedgraderingsangrep"
+    },
+    "cancel_http_once": {
+        "message": "\u00c5pne usikker side bare for denne \u00f8kten"
+    },
+    "cancel_open_page": {
+        "message": "\u00c5pne usikker side"
+    },
+    "chrome_add_new_rule": {
+        "message": "Legg til en ny regel for dette nettstedet"
+    },
+    "chrome_add_rule": {
+        "message": "Legg til en regel for dette nettstedet"
+    },
+    "chrome_always_https_for_host": {
+        "message": "Bruk alltid https for denne verten"
+    },
+    "chrome_disable_on_this_site": {
+        "message": "Deaktiver HTTPS Everywhere p\u00e5 dette nettstedet"
+    },
+    "chrome_enable_on_this_site": {
+        "message": "Aktiver HTTPS Everywhere p\u00e5 dette nettstedet"
+    },
+    "chrome_experimental_rules": {
+        "message": "Eksperimentelle regler"
+    },
+    "chrome_experimental_rules_description": {
+        "message": "Kan for\u00e5rsake advarsler eller brudd. Deaktivert som standard."
+    },
+    "chrome_hide_advanced": {
+        "message": "Skjul avanserte"
+    },
+    "chrome_host": {
+        "message": "Vert:"
+    },
+    "chrome_redirect_to": {
+        "message": "Omdiriger til"
+    },
+    "chrome_regex": {
+        "message": "Samsvarende regex"
+    },
+    "chrome_rule_name": {
+        "message": "Regelnavn"
+    },
+    "chrome_settings_for_this_site_explained": {
+        "message": "N\u00e5r du surfer p\u00e5 forskjellige nettsteder, kan du endre dine preferanser for hvert nettsted"
+    },
+    "chrome_settings_for_this_site_header": {
+        "message": "Innstillinger for dette nettstedet"
+    },
+    "chrome_settings_for_this_site_subheader": {
+        "message": "Endre dine preferanser for krypterte tilkoblinger"
+    },
+    "chrome_show_advanced": {
+        "message": "Vis avanserte"
+    },
+    "chrome_stable_rules": {
+        "message": "Stabile regler"
+    },
+    "chrome_stable_rules_description": {
+        "message": "Tving krypterte tilkoblinger til disse nettstedene:"
+    },
+    "chrome_status_cancel_button": {
+        "message": "Avbryt"
+    },
+    "menu_donate_eff_imperative": {
+        "message": "Doner til EFF"
+    },
+    "menu_encryptAllSitesEligibleOff": {
+        "message": "Krypter alle kvalifiserte nettsteder er AV"
+    },
+    "menu_encryptAllSitesEligibleOn": {
+        "message": "Krypter alle kvalifiserte nettsteder er P\u00c5"
+    },
+    "menu_globalDisable": {
+        "message": "HTTPS Everywhere er AV"
+    },
+    "menu_globalEnable": {
+        "message": "HTTPS Everywhere er P\u00c5"
+    },
+    "menu_httpNoWhereExplainedAllowed": {
+        "message": "Ikke-krypterte foresp\u00f8rsler er forel\u00f8pig tillatt"
+    },
+    "menu_httpNoWhereExplainedBlocked": {
+        "message": "Ukryptert foresp\u00f8rsler er for \u00f8yeblikket blokkert"
+    },
+    "menu_httpNoWhereMore": {
+        "message": "Denne modusen blokkerer ukryptert innhold og foresp\u00f8rsler"
+    },
+    "menu_observatory": {
+        "message": "SSL-observatoriums-innstillinger"
+    },
+    "menu_seeLess": {
+        "message": "Se mindre"
+    },
+    "menu_seeMore": {
+        "message": "Se mer"
+    },
+    "menu_showCounter": {
+        "message": "Vis teller"
+    },
+    "menu_viewAllRules": {
+        "message": "Vis alle regler"
+    },
+    "onboarding_footer": {
+        "message": "HTTPS Everywhere er et EFF prosjekt"
+    },
+    "onboarding_header": {
+        "message": "HTTPS Everywhere har blitt oppdatert!"
+    },
+    "onboarding_intro": {
+        "message": "Krypter nettet! Bruk HTTPS-sikkerhet automatisk p\u00e5 mange nettsteder."
+    },
+    "options_addDisabledSite": {
+        "message": "Legg til deaktivert nettsted"
+    },
+    "options_addUpdateChannel": {
+        "message": "Legg til oppdateringskanal"
+    },
+    "options_advancedSettings": {
+        "message": "Avanserte innstillinger"
+    },
+    "options_autoUpdateRulesets": {
+        "message": "Automatisk oppdatering av regler"
+    },
+    "options_debuggingRulesets": {
+        "message": "Feilretting-regelsett (avansert)"
+    },
+    "options_delete": {
+        "message": "Slett"
+    },
+    "options_disabledUrlsListed": {
+        "message": "HTTPS Everywhere nettsteder deaktivert"
+    },
+    "options_enableMixedRulesets": {
+        "message": "Aktiver blandet innhold regelsett"
+    },
+    "options_enterDisabledSite": {
+        "message": "G\u00e5 inn p\u00e5 deaktivert nettsted"
+    },
+    "options_enterUpdateChannelName": {
+        "message": "Skriv inn oppdateringskanalnavn"
+    },
+    "options_generalSettings": {
+        "message": "Generelle innstillinger"
+    },
+    "options_settings": {
+        "message": "Innstillinger"
+    },
+    "options_showDevtoolsTab": {
+        "message": "Vis Utviklerverkt\u00f8y fanen"
+    },
+    "options_storedRulesetsVersion": {
+        "message": "Lagret regelsettversjon:"
+    },
+    "options_update": {
+        "message": "Oppdater"
+    },
+    "options_updateChannels": {
+        "message": "Oppdater kanaler"
+    },
+    "options_updateChannelsWarning": {
+        "message": "Advarsel: \u00c5 legge til oppdateringskanaler kan f\u00f8re til at angriperne kaprer nettleseren din. Bare rediger denne delen hvis du vet hva du gj\u00f8r!"
+    },
+    "options_updatesLastChecked": {
+        "message": "Oppdateringer sist sjekket:"
+    },
+    "options_updatesLastCheckedNever": {
+        "message": "aldri"
+    },
+    "options_userRulesListed": {
+        "message": "HTTPS Everywhere brukerregler"
+    },
+    "prefs_export_settings": {
+        "message": "Eksporter innstillinger"
+    },
+    "prefs_reset_defaults": {
+        "message": "Tilbakestill til standardinnstillinger"
+    },
+    "prefs_reset_defaults_message": {
+        "message": "Dette vil tilbakestille hver regelsett til standardstatus. Fortsette?"
+    }
+}

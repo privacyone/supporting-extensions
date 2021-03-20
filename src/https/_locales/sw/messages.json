@@ -1,0 +1,212 @@
+{
+    "about_add_new_rule": {
+        "message": "Ongeza sheria mpya"
+    },
+    "about_ext_description": {
+        "message": "Encrypt mtandao!  Moja kwa moja tumia HTTPS usalama kwenye tovuti nyingi."
+    },
+    "about_ext_name": {
+        "message": "HTTPS kila mahali"
+    },
+    "about_rulesets_version": {
+        "message": "Seti ya sheria kwa toleo"
+    },
+    "about_title": {
+        "message": "Kuhusu HTTPS kila mahali"
+    },
+    "about_version": {
+        "message": "Toleo"
+    },
+    "cancel_he_blocking_explainer": {
+        "message": "Breeze noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version."
+    },
+    "go_back": {
+        "message": "Go Back"
+    },
+    "no_https_disclaimer": {
+        "message": "WARNING: If you choose to continue to this page insecurely, Breeze cannot protect your privacy and security.\nNEVER ENTER ANY PERSONAL INFORMATION INTO A SITE THAT DOES NOT SUPPORT HTTPS\nAll of your activity on this site including the pages you visit, any passwords, credit card info, or personal details manually entered will be visible in plain text to any servers or individuals listening in the middle and should be assumed compromised."
+    },
+    "cancel_he_blocking_network": {
+        "message": "Mtandao unaonyesha umevamiwa daraja la chini"
+    },
+    "cancel_http_once": {
+        "message": "Open insecure page for this session only"
+    },
+    "cancel_open_page": {
+        "message": "Fungua page isiyosalama"
+    },
+    "chrome_add_new_rule": {
+        "message": "ongeza sheria mpya kwenye  tovuti hii"
+    },
+    "chrome_add_rule": {
+        "message": "ongeza sheria kwenye tovuti hii"
+    },
+    "chrome_always_https_for_host": {
+        "message": "Sikuzote tumia https kwa msimamizi huyu"
+    },
+    "chrome_disable_on_this_site": {
+        "message": "Zuia HTTPS Kilamahali katika tovuti hii"
+    },
+    "chrome_enable_on_this_site": {
+        "message": "Wezesha HTTPS kilamahali katika tovuti hii"
+    },
+    "chrome_experimental_rules": {
+        "message": "sheria za majaribio"
+    },
+    "chrome_experimental_rules_description": {
+        "message": "Unaweza sababisha onyo au kuvunjika.  Imezuiliwa kwa difault."
+    },
+    "chrome_hide_advanced": {
+        "message": "Ficha ya juu"
+    },
+    "chrome_host": {
+        "message": "husika"
+    },
+    "chrome_redirect_to": {
+        "message": "kwenda tena kwa"
+    },
+    "chrome_regex": {
+        "message": "Kulinganisha regex"
+    },
+    "chrome_rule_name": {
+        "message": "jina sheria"
+    },
+    "chrome_settings_for_this_site_explained": {
+        "message": "As you browse different websites, you can change your preferences for each website"
+    },
+    "chrome_settings_for_this_site_header": {
+        "message": "Settings for this site"
+    },
+    "chrome_settings_for_this_site_subheader": {
+        "message": "Change your preferences for encrypted connections"
+    },
+    "chrome_show_advanced": {
+        "message": "Onysha ya juu"
+    },
+    "chrome_stable_rules": {
+        "message": "sheria imara"
+    },
+    "chrome_stable_rules_description": {
+        "message": "Lazimisha uhusiano uwe encrypted katika tovuti hizi:"
+    },
+    "chrome_status_cancel_button": {
+        "message": "futa"
+    },
+    "menu_donate_eff_imperative": {
+        "message": "chagia EFF"
+    },
+    "menu_encryptAllSitesEligibleOff": {
+        "message": "Encrypt All Sites Eligible is OFF"
+    },
+    "menu_encryptAllSitesEligibleOn": {
+        "message": "Encrypt All Sites Eligible is ON"
+    },
+    "menu_globalDisable": {
+        "message": "HTTPS Everywhere is OFF"
+    },
+    "menu_globalEnable": {
+        "message": "HTTPS Everywhere is ON"
+    },
+    "menu_httpNoWhereExplainedAllowed": {
+        "message": "Unencrypted requests are currently allowed"
+    },
+    "menu_httpNoWhereExplainedBlocked": {
+        "message": "Unencrypted requests are currently blocked"
+    },
+    "menu_httpNoWhereMore": {
+        "message": "This mode blocks unencrypted content and requests"
+    },
+    "menu_observatory": {
+        "message": "SSL Mwangalizi ya ufuatiliaji"
+    },
+    "menu_seeLess": {
+        "message": "See less"
+    },
+    "menu_seeMore": {
+        "message": "See more"
+    },
+    "menu_showCounter": {
+        "message": "onyesha counter"
+    },
+    "menu_viewAllRules": {
+        "message": "Onyesha sheria kali"
+    },
+    "onboarding_footer": {
+        "message": "HTTPS Everywhere is an EFF project"
+    },
+    "onboarding_header": {
+        "message": "HTTPS Everywhere has been updated!"
+    },
+    "onboarding_intro": {
+        "message": "Encrypt mtandao!  Moja kwa moja tumia HTTPS usalama kwenye tovuti nyingi."
+    },
+    "options_addDisabledSite": {
+        "message": "Add Disabled Site"
+    },
+    "options_addUpdateChannel": {
+        "message": "Ongeza chanzo kilichosasishwa"
+    },
+    "options_advancedSettings": {
+        "message": "mpangilio wa jumla"
+    },
+    "options_autoUpdateRulesets": {
+        "message": "mojakwakoja sasisha seti za sheria"
+    },
+    "options_debuggingRulesets": {
+        "message": "Debugging Rulesets (advanced)"
+    },
+    "options_delete": {
+        "message": "Futa"
+    },
+    "options_disabledUrlsListed": {
+        "message": "HTTPS kilamahali tovuti zimezuiliwa"
+    },
+    "options_enableMixedRulesets": {
+        "message": "Wezesha mchanganyiko wa yaliyomo katika  seti za sheria"
+    },
+    "options_enterDisabledSite": {
+        "message": "Enter disabled site"
+    },
+    "options_enterUpdateChannelName": {
+        "message": "Ingiza sasisha jina la kituo"
+    },
+    "options_generalSettings": {
+        "message": "Mpangilio wa jumla"
+    },
+    "options_settings": {
+        "message": "vipimo"
+    },
+    "options_showDevtoolsTab": {
+        "message": "Onyesha Devtools kitufe"
+    },
+    "options_storedRulesetsVersion": {
+        "message": "seti za sheria za toleo zimehifadhiwa"
+    },
+    "options_update": {
+        "message": "sasisha"
+    },
+    "options_updateChannels": {
+        "message": "Sasisha stesheni"
+    },
+    "options_updateChannelsWarning": {
+        "message": "Onyo: Ongeza sasisho vituo unaweza sababisha wavamizi kuingia kwenye kivinjari chako.  Unaweza hariri kipengele hiki ikiwa unajua unachokifanya!"
+    },
+    "options_updatesLastChecked": {
+        "message": "sasisha mara ya mwisho kukaguliwa"
+    },
+    "options_updatesLastCheckedNever": {
+        "message": "haiwezekani kamwe"
+    },
+    "options_userRulesListed": {
+        "message": "HTTPS kila mahali sheria za mtumiaji"
+    },
+    "prefs_export_settings": {
+        "message": "tuma mpangilio"
+    },
+    "prefs_reset_defaults": {
+        "message": "pangilia tena kwa defaults"
+    },
+    "prefs_reset_defaults_message": {
+        "message": "Hii itapangilia tena kila seti ya sheria katika hali ya default.  Endelea?"
+    }
+}

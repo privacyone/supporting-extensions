@@ -1,0 +1,212 @@
+{
+    "about_add_new_rule": {
+        "message": "Ajouter une nouvelle r\u00e8gle"
+    },
+    "about_ext_description": {
+        "message": "Chiffrez la Toile\u2009! Utilisez automatiquement la s\u00e9curit\u00e9 HTTPS avec de nombreux sites."
+    },
+    "about_ext_name": {
+        "message": "HTTPS\u00a0partout"
+    },
+    "about_rulesets_version": {
+        "message": "Version des ensembles de r\u00e8gles pour"
+    },
+    "about_title": {
+        "message": "\u00c0 propos de HTTPS\u00a0partout"
+    },
+    "about_version": {
+        "message": "Version"
+    },
+    "cancel_he_blocking_explainer": {
+        "message": "Breeze noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version."
+    },
+    "go_back": {
+        "message": "Go Back"
+    },
+    "no_https_disclaimer": {
+        "message": "WARNING: If you choose to continue to this page insecurely, Breeze cannot protect your privacy and security.\nNEVER ENTER ANY PERSONAL INFORMATION INTO A SITE THAT DOES NOT SUPPORT HTTPS\nAll of your activity on this site including the pages you visit, any passwords, credit card info, or personal details manually entered will be visible in plain text to any servers or individuals listening in the middle and should be assumed compromised."
+    },
+    "cancel_he_blocking_network": {
+        "message": "attaques de r\u00e9trograde r\u00e9seau"
+    },
+    "cancel_http_once": {
+        "message": "N\u2019ouvrir la page non s\u00e9curis\u00e9e que pour cette session"
+    },
+    "cancel_open_page": {
+        "message": "Ouvrir la page non s\u00e9curis\u00e9e"
+    },
+    "chrome_add_new_rule": {
+        "message": "Ajouter une nouvelle r\u00e8gle pour ce site"
+    },
+    "chrome_add_rule": {
+        "message": "Ajouter une r\u00e8gle pour ce site"
+    },
+    "chrome_always_https_for_host": {
+        "message": "Toujours utiliser HTTPS pour cet h\u00f4te"
+    },
+    "chrome_disable_on_this_site": {
+        "message": "D\u00e9sactiver HTTPS\u00a0partout sur ce site"
+    },
+    "chrome_enable_on_this_site": {
+        "message": "Activer HTTPS\u00a0partout sur ce site"
+    },
+    "chrome_experimental_rules": {
+        "message": "R\u00e8gles exp\u00e9rimentales\u00a0:"
+    },
+    "chrome_experimental_rules_description": {
+        "message": "Pourrait causer des avertissements ou des d\u00e9faillances. D\u00e9sactiv\u00e9 par d\u00e9faut."
+    },
+    "chrome_hide_advanced": {
+        "message": "Cacher les options \u00e9volu\u00e9es"
+    },
+    "chrome_host": {
+        "message": "H\u00f4te\u00a0:"
+    },
+    "chrome_redirect_to": {
+        "message": "Rediriger vers"
+    },
+    "chrome_regex": {
+        "message": "Regex correspondant"
+    },
+    "chrome_rule_name": {
+        "message": "Nom de la r\u00e8gle"
+    },
+    "chrome_settings_for_this_site_explained": {
+        "message": "Alors que vous parcourez diff\u00e9rents sites Web, vous pouvez changer vos pr\u00e9f\u00e9rences pour chaque site Web"
+    },
+    "chrome_settings_for_this_site_header": {
+        "message": "Param\u00e8tres pour ce site"
+    },
+    "chrome_settings_for_this_site_subheader": {
+        "message": "Changer vos pr\u00e9f\u00e9rences pour les connexions chiffr\u00e9es"
+    },
+    "chrome_show_advanced": {
+        "message": "Afficher les options \u00e9volu\u00e9es"
+    },
+    "chrome_stable_rules": {
+        "message": "R\u00e8gles stables"
+    },
+    "chrome_stable_rules_description": {
+        "message": "Forcer des connexions chiffr\u00e9es vers ces sites Web\u00a0:"
+    },
+    "chrome_status_cancel_button": {
+        "message": "Annuler"
+    },
+    "menu_donate_eff_imperative": {
+        "message": "Faire un don \u00e0 la FF\u00c9"
+    },
+    "menu_encryptAllSitesEligibleOff": {
+        "message": "Chiffrer tous les sites admissibles est d\u00e9sactiv\u00e9e"
+    },
+    "menu_encryptAllSitesEligibleOn": {
+        "message": "Chiffrer tous les sites admissibles est activ\u00e9e"
+    },
+    "menu_globalDisable": {
+        "message": "HTTPS\u00a0partout est d\u00e9sactiv\u00e9e"
+    },
+    "menu_globalEnable": {
+        "message": "HTTPS\u00a0partout est activ\u00e9e"
+    },
+    "menu_httpNoWhereExplainedAllowed": {
+        "message": "Les requ\u00eates non chiffr\u00e9es sont permises actuellement"
+    },
+    "menu_httpNoWhereExplainedBlocked": {
+        "message": "Les requ\u00eates non chiffr\u00e9es sont bloqu\u00e9es actuellement"
+    },
+    "menu_httpNoWhereMore": {
+        "message": "Ce mode bloque les contenus et les requ\u00eates non chiffr\u00e9s"
+    },
+    "menu_observatory": {
+        "message": "Pr\u00e9f\u00e9rences de l\u2019observatoire SSL "
+    },
+    "menu_seeLess": {
+        "message": "Moins de pr\u00e9cisions"
+    },
+    "menu_seeMore": {
+        "message": "Plus de pr\u00e9cisions"
+    },
+    "menu_showCounter": {
+        "message": "Afficher le compteur"
+    },
+    "menu_viewAllRules": {
+        "message": "Visualiser toutes les r\u00e8gles"
+    },
+    "onboarding_footer": {
+        "message": "HTTPS\u00a0partout est un projet de la FF\u00c9"
+    },
+    "onboarding_header": {
+        "message": "HTTPS\u00a0partout a \u00e9t\u00e9 mise \u00e0 jour"
+    },
+    "onboarding_intro": {
+        "message": "Chiffrez la Toile\u2009! Utilisez automatiquement la s\u00e9curit\u00e9 HTTPS avec de nombreux sites."
+    },
+    "options_addDisabledSite": {
+        "message": "Ajouter un site \u00e0 d\u00e9sactiver"
+    },
+    "options_addUpdateChannel": {
+        "message": "Ajouter un canal de mise \u00e0 jour"
+    },
+    "options_advancedSettings": {
+        "message": "Param\u00e8tres avanc\u00e9s"
+    },
+    "options_autoUpdateRulesets": {
+        "message": "Ensembles de r\u00e8gles de mise \u00e0 jour automatique"
+    },
+    "options_debuggingRulesets": {
+        "message": "D\u00e9bogage des ensemble de r\u00e8gles (expert) "
+    },
+    "options_delete": {
+        "message": "Supprimer"
+    },
+    "options_disabledUrlsListed": {
+        "message": "Sites d\u00e9sactiv\u00e9s dans HTTPS\u00a0partout"
+    },
+    "options_enableMixedRulesets": {
+        "message": "Activer les ensembles de r\u00e8gles pour le contenu mixte"
+    },
+    "options_enterDisabledSite": {
+        "message": "Saisir un site \u00e0 D\u00e9sactiver"
+    },
+    "options_enterUpdateChannelName": {
+        "message": "Saisir le nom du canal de mise \u00e0 jour"
+    },
+    "options_generalSettings": {
+        "message": "Param\u00e8tres g\u00e9n\u00e9raux"
+    },
+    "options_settings": {
+        "message": "Param\u00e8tres"
+    },
+    "options_showDevtoolsTab": {
+        "message": "Afficher l\u2019onglet des outils pour d\u00e9veloppeurs"
+    },
+    "options_storedRulesetsVersion": {
+        "message": "Version enregistr\u00e9e des ensembles de r\u00e8gles\u00a0:"
+    },
+    "options_update": {
+        "message": "Mise \u00e0 jour"
+    },
+    "options_updateChannels": {
+        "message": "Canaux de mise \u00e0 jour"
+    },
+    "options_updateChannelsWarning": {
+        "message": "Avertissement\u00a0: L\u2019ajout de canaux de mise \u00e0 jour peut permettre \u00e0 des assaillants de pirater votre navigateur. Ne modifiez cette section que si vous savez ce que vous faites\u2009!"
+    },
+    "options_updatesLastChecked": {
+        "message": "Derni\u00e8re v\u00e9rification des mises \u00e0 jour\u00a0:"
+    },
+    "options_updatesLastCheckedNever": {
+        "message": "jamais"
+    },
+    "options_userRulesListed": {
+        "message": "R\u00e8gles utilisateur de HTTPS\u00a0partout"
+    },
+    "prefs_export_settings": {
+        "message": "Exporter les param\u00e8tres"
+    },
+    "prefs_reset_defaults": {
+        "message": "R\u00e9initialiser aux param\u00e8tres par d\u00e9faut"
+    },
+    "prefs_reset_defaults_message": {
+        "message": "Chaque ensemble de r\u00e8gles sera r\u00e9initialis\u00e9 \u00e0 son \u00e9tat par d\u00e9faut. Poursuivre\u2009?"
+    }
+}

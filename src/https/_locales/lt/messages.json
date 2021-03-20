@@ -1,0 +1,212 @@
+{
+    "about_add_new_rule": {
+        "message": "Prid\u0117ti nauj\u0105 taisykl\u0119"
+    },
+    "about_ext_description": {
+        "message": "\u0160ifruokite saityn\u0105! Automati\u0161kai naudokite HTTPS saugum\u0105 daugelyje svetaini\u0173."
+    },
+    "about_ext_name": {
+        "message": "HTTPS Everywhere"
+    },
+    "about_rulesets_version": {
+        "message": "Taisykli\u0173 rinkinio versija"
+    },
+    "about_title": {
+        "message": "Apie HTTPS Everywhere"
+    },
+    "about_version": {
+        "message": "Versija"
+    },
+    "cancel_he_blocking_explainer": {
+        "message": "Breeze noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version."
+    },
+    "go_back": {
+        "message": "Go Back"
+    },
+    "no_https_disclaimer": {
+        "message": "WARNING: If you choose to continue to this page insecurely, Breeze cannot protect your privacy and security.\nNEVER ENTER ANY PERSONAL INFORMATION INTO A SITE THAT DOES NOT SUPPORT HTTPS\nAll of your activity on this site including the pages you visit, any passwords, credit card info, or personal details manually entered will be visible in plain text to any servers or individuals listening in the middle and should be assumed compromised."
+    },
+    "cancel_he_blocking_network": {
+        "message": "tinklu pagr\u012fstos sendinimo atakos"
+    },
+    "cancel_http_once": {
+        "message": "Atverti nesaug\u0173 puslap\u012f tik \u0161iam seansui"
+    },
+    "cancel_open_page": {
+        "message": "Atverti nesaug\u0173 puslap\u012f"
+    },
+    "chrome_add_new_rule": {
+        "message": "Prid\u0117ti \u0161iai svetainei nauj\u0105 taisykl\u0119"
+    },
+    "chrome_add_rule": {
+        "message": "Prid\u0117ti \u0161iai svetainei taisykl\u0119"
+    },
+    "chrome_always_https_for_host": {
+        "message": "Visuomet \u0161iam serveriui naudoti https"
+    },
+    "chrome_disable_on_this_site": {
+        "message": "I\u0161jungti HTTPS Everywhere \u0161ioje svetain\u0117je"
+    },
+    "chrome_enable_on_this_site": {
+        "message": "\u012ejungti HTTPS Everywhere \u0161ioje svetain\u0117je"
+    },
+    "chrome_experimental_rules": {
+        "message": "Eksperimentin\u0117s taisykl\u0117s"
+    },
+    "chrome_experimental_rules_description": {
+        "message": "Gali sukelti \u012fsp\u0117jimus ar gedimus. Pagal numatym\u0105 i\u0161jungta."
+    },
+    "chrome_hide_advanced": {
+        "message": "Sl\u0117pti i\u0161pl\u0117stinius"
+    },
+    "chrome_host": {
+        "message": "Serveris:"
+    },
+    "chrome_redirect_to": {
+        "message": "Nukreipti \u012f"
+    },
+    "chrome_regex": {
+        "message": "Atitinkamas reguliarusis rei\u0161kinys"
+    },
+    "chrome_rule_name": {
+        "message": "Taisykl\u0117s pavadinimas"
+    },
+    "chrome_settings_for_this_site_explained": {
+        "message": "Nar\u0161ydami \u012fvairiose svetain\u0117se, kiekvienai svetainei galite keisti savo nuostatas"
+    },
+    "chrome_settings_for_this_site_header": {
+        "message": "Nustatymai \u0161iai svetainei"
+    },
+    "chrome_settings_for_this_site_subheader": {
+        "message": "Keiskite savo \u0161ifruot\u0173 ry\u0161i\u0173 nuostatas"
+    },
+    "chrome_show_advanced": {
+        "message": "Rodyti i\u0161pl\u0117stinius"
+    },
+    "chrome_stable_rules": {
+        "message": "Pastovios taisykl\u0117s"
+    },
+    "chrome_stable_rules_description": {
+        "message": "Priverstinis prisijungim\u0173 \u0161ifravimas \u012f \u0161iuos tinklalapius:"
+    },
+    "chrome_status_cancel_button": {
+        "message": "Atsisakyti"
+    },
+    "menu_donate_eff_imperative": {
+        "message": "Paaukoti EFF"
+    },
+    "menu_encryptAllSitesEligibleOff": {
+        "message": "\u0160ifruoti visas galimas svetaines (EASE) yra I\u0160JUNGTA"
+    },
+    "menu_encryptAllSitesEligibleOn": {
+        "message": "\u0160ifruoti visas galimas svetaines (EASE) yra \u012eJUNGTA"
+    },
+    "menu_globalDisable": {
+        "message": "HTTPS Everywhere yra I\u0160JUNGTA"
+    },
+    "menu_globalEnable": {
+        "message": "HTTPS Everywhere yra \u012eJUNGTA"
+    },
+    "menu_httpNoWhereExplainedAllowed": {
+        "message": "\u0160iuo metu ne\u0161ifruotos u\u017eklausos yra leid\u017eiamos"
+    },
+    "menu_httpNoWhereExplainedBlocked": {
+        "message": "\u0160iuo metu ne\u0161ifruotos u\u017eklausos yra u\u017eblokuotos"
+    },
+    "menu_httpNoWhereMore": {
+        "message": "\u0160i veiksena u\u017eblokuoja ne\u0161ifruot\u0105 turin\u012f ir u\u017eklausas"
+    },
+    "menu_observatory": {
+        "message": "SSL observatorijos nuostatos"
+    },
+    "menu_seeLess": {
+        "message": "Rodyti ma\u017eiau"
+    },
+    "menu_seeMore": {
+        "message": "Rodyti daugiau"
+    },
+    "menu_showCounter": {
+        "message": "Rodyti skaitikl\u012f"
+    },
+    "menu_viewAllRules": {
+        "message": "Rodyti visas taisykles"
+    },
+    "onboarding_footer": {
+        "message": "HTTPS Everywhere yra EFF projektas"
+    },
+    "onboarding_header": {
+        "message": "HTTPS Everywhere atnaujinta!"
+    },
+    "onboarding_intro": {
+        "message": "\u0160ifruokite saityn\u0105! Automati\u0161kai naudokite HTTPS saugum\u0105 daugelyje svetaini\u0173."
+    },
+    "options_addDisabledSite": {
+        "message": "Prid\u0117ti i\u0161jungt\u0105 svetain\u0119"
+    },
+    "options_addUpdateChannel": {
+        "message": "Prid\u0117ti atnaujinimo kanal\u0105"
+    },
+    "options_advancedSettings": {
+        "message": "I\u0161pl\u0117stiniai nustatymai"
+    },
+    "options_autoUpdateRulesets": {
+        "message": "Automati\u0161kai atnaujinti taisykli\u0173 rinkinius"
+    },
+    "options_debuggingRulesets": {
+        "message": "Derinimo taisykli\u0173 rinkiniai (i\u0161pl\u0117stiniai)"
+    },
+    "options_delete": {
+        "message": "I\u0161trinti"
+    },
+    "options_disabledUrlsListed": {
+        "message": "HTTPS Everywhere svetain\u0117s i\u0161jungtos"
+    },
+    "options_enableMixedRulesets": {
+        "message": "\u012ejungti mi\u0161raus turinio taisykli\u0173 rinkinius"
+    },
+    "options_enterDisabledSite": {
+        "message": "\u012eveskite i\u0161jungt\u0105 svetain\u0119"
+    },
+    "options_enterUpdateChannelName": {
+        "message": "Prid\u0117ti atnaujinimo kanalo vard\u0105"
+    },
+    "options_generalSettings": {
+        "message": "Bendri nustatymai"
+    },
+    "options_settings": {
+        "message": "Nustatymai"
+    },
+    "options_showDevtoolsTab": {
+        "message": "Rodyti pl\u0117totojo \u012franki\u0173 kortel\u0119"
+    },
+    "options_storedRulesetsVersion": {
+        "message": "I\u0161saugot\u0173 taisykli\u0173 rinkini\u0173 versija: "
+    },
+    "options_update": {
+        "message": "Atnaujinti"
+    },
+    "options_updateChannels": {
+        "message": "Atnaujinimo kanalai"
+    },
+    "options_updateChannelsWarning": {
+        "message": "\u012esp\u0117jimas: Prid\u0117jus atnaujinimo kanalus, u\u017epuolikai gali u\u017egrobti j\u016bs\u0173 nar\u0161ykl\u0119. Taisykite \u0161i\u0105 sekcij\u0105 tik tuo atveju, jeigu \u017einote k\u0105 darote!"
+    },
+    "options_updatesLastChecked": {
+        "message": "Atnaujinimai paskutin\u012f kart\u0105 tikrinti:"
+    },
+    "options_updatesLastCheckedNever": {
+        "message": "niekada"
+    },
+    "options_userRulesListed": {
+        "message": "HTTPS Everywhere naudotojo taisykl\u0117s"
+    },
+    "prefs_export_settings": {
+        "message": "Eksportuoti nustatymus"
+    },
+    "prefs_reset_defaults": {
+        "message": "Atstatyti numatytuosius"
+    },
+    "prefs_reset_defaults_message": {
+        "message": "Tai atstatys kiekvien\u0105 taisykli\u0173 rinkin\u012f \u012f jo pirmin\u0119 b\u016bsen\u0105. T\u0119sti?"
+    }
+}

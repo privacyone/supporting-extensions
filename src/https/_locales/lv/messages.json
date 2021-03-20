@@ -1,0 +1,212 @@
+{
+    "about_add_new_rule": {
+        "message": "Pievienot jaunu k\u0101rtulu"
+    },
+    "about_ext_description": {
+        "message": "\u0160ifr\u0113t t\u012bmekli! Autom\u0101tiski lietot HTTPS dro\u0161\u012bbu daudz\u0101s vietn\u0113s."
+    },
+    "about_ext_name": {
+        "message": "HTTPS Everywhere"
+    },
+    "about_rulesets_version": {
+        "message": "Rulesets version for"
+    },
+    "about_title": {
+        "message": "Par HTTPS Everywhere"
+    },
+    "about_version": {
+        "message": "Versija"
+    },
+    "cancel_he_blocking_explainer": {
+        "message": "Breeze noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version."
+    },
+    "go_back": {
+        "message": "Go Back"
+    },
+    "no_https_disclaimer": {
+        "message": "WARNING: If you choose to continue to this page insecurely, Breeze cannot protect your privacy and security.\nNEVER ENTER ANY PERSONAL INFORMATION INTO A SITE THAT DOES NOT SUPPORT HTTPS\nAll of your activity on this site including the pages you visit, any passwords, credit card info, or personal details manually entered will be visible in plain text to any servers or individuals listening in the middle and should be assumed compromised."
+    },
+    "cancel_he_blocking_network": {
+        "message": "network-based downgrade attacks"
+    },
+    "cancel_http_once": {
+        "message": "Open insecure page for this session only"
+    },
+    "cancel_open_page": {
+        "message": "Open insecure page"
+    },
+    "chrome_add_new_rule": {
+        "message": "\u0160ai vietnei pievienot jaunu k\u0101rtulu"
+    },
+    "chrome_add_rule": {
+        "message": "\u0160ai vietnei pievienot k\u0101rtulu"
+    },
+    "chrome_always_https_for_host": {
+        "message": "\u0160im resursdatoram vienm\u0113r lietot https"
+    },
+    "chrome_disable_on_this_site": {
+        "message": "Disable HTTPS Everywhere on this site"
+    },
+    "chrome_enable_on_this_site": {
+        "message": "Enable HTTPS Everywhere on this site"
+    },
+    "chrome_experimental_rules": {
+        "message": "Eksperiment\u0101las k\u0101rtulas"
+    },
+    "chrome_experimental_rules_description": {
+        "message": "Var izsaukt br\u012bdin\u0101jumus vai darb\u012bbas p\u0101rtraukumus. P\u0113c noklus\u0113juma ir atsp\u0113jots."
+    },
+    "chrome_hide_advanced": {
+        "message": "Sl\u0113pt lietprat\u012bg\u0101s"
+    },
+    "chrome_host": {
+        "message": "Resursdators:"
+    },
+    "chrome_redirect_to": {
+        "message": "Novirz\u012bt uz"
+    },
+    "chrome_regex": {
+        "message": "Atbilsto\u0161a regul\u0101ra izteiksme jeb regex"
+    },
+    "chrome_rule_name": {
+        "message": "K\u0101rtulas nosaukums"
+    },
+    "chrome_settings_for_this_site_explained": {
+        "message": "As you browse different websites, you can change your preferences for each website"
+    },
+    "chrome_settings_for_this_site_header": {
+        "message": "Settings for this site"
+    },
+    "chrome_settings_for_this_site_subheader": {
+        "message": "Change your preferences for encrypted connections"
+    },
+    "chrome_show_advanced": {
+        "message": "R\u0101d\u012bt lietprat\u012bg\u0101s"
+    },
+    "chrome_stable_rules": {
+        "message": "Stabilas k\u0101rtulas"
+    },
+    "chrome_stable_rules_description": {
+        "message": "Uzspiest \u0161ifr\u0113tus savienojumus ar \u0161\u012bm t\u012bmek\u013ca vietn\u0113m."
+    },
+    "chrome_status_cancel_button": {
+        "message": "Atcelt"
+    },
+    "menu_donate_eff_imperative": {
+        "message": "Ziedojiet EFF"
+    },
+    "menu_encryptAllSitesEligibleOff": {
+        "message": "Encrypt All Sites Eligible is OFF"
+    },
+    "menu_encryptAllSitesEligibleOn": {
+        "message": "Encrypt All Sites Eligible is ON"
+    },
+    "menu_globalDisable": {
+        "message": "HTTPS Everywhere is OFF"
+    },
+    "menu_globalEnable": {
+        "message": "HTTPS Everywhere is ON"
+    },
+    "menu_httpNoWhereExplainedAllowed": {
+        "message": "Unencrypted requests are currently allowed"
+    },
+    "menu_httpNoWhereExplainedBlocked": {
+        "message": "Unencrypted requests are currently blocked"
+    },
+    "menu_httpNoWhereMore": {
+        "message": "This mode blocks unencrypted content and requests"
+    },
+    "menu_observatory": {
+        "message": "SSL Observatory preferences"
+    },
+    "menu_seeLess": {
+        "message": "See less"
+    },
+    "menu_seeMore": {
+        "message": "See more"
+    },
+    "menu_showCounter": {
+        "message": "R\u0101d\u012bjumu skait\u012bt\u0101js"
+    },
+    "menu_viewAllRules": {
+        "message": "Skat\u012bt visas k\u0101rtulas"
+    },
+    "onboarding_footer": {
+        "message": "HTTPS Everywhere is an EFF project"
+    },
+    "onboarding_header": {
+        "message": "HTTPS Everywhere has been updated!"
+    },
+    "onboarding_intro": {
+        "message": "\u0160ifr\u0113t t\u012bmekli! Autom\u0101tiski lietot HTTPS dro\u0161\u012bbu daudz\u0101s vietn\u0113s."
+    },
+    "options_addDisabledSite": {
+        "message": "Add Disabled Site"
+    },
+    "options_addUpdateChannel": {
+        "message": "Add Update Channel"
+    },
+    "options_advancedSettings": {
+        "message": "Papildu iestat\u012bjumi"
+    },
+    "options_autoUpdateRulesets": {
+        "message": "Auto-update rulesets"
+    },
+    "options_debuggingRulesets": {
+        "message": "Debugging Rulesets (advanced)"
+    },
+    "options_delete": {
+        "message": "Delete"
+    },
+    "options_disabledUrlsListed": {
+        "message": "HTTPS Everywhere Sites Disabled"
+    },
+    "options_enableMixedRulesets": {
+        "message": "Enable mixed content rulesets"
+    },
+    "options_enterDisabledSite": {
+        "message": "Enter disabled site"
+    },
+    "options_enterUpdateChannelName": {
+        "message": "Enter update channel name"
+    },
+    "options_generalSettings": {
+        "message": "Visp\u0101r\u012bgi iestat\u012bjumi"
+    },
+    "options_settings": {
+        "message": "Iestat\u012bjumi"
+    },
+    "options_showDevtoolsTab": {
+        "message": "Show Devtools tab"
+    },
+    "options_storedRulesetsVersion": {
+        "message": "Stored rulesets version: "
+    },
+    "options_update": {
+        "message": "Update"
+    },
+    "options_updateChannels": {
+        "message": "Update Channels"
+    },
+    "options_updateChannelsWarning": {
+        "message": "Warning: Adding update channels can cause attackers to hijack your browser. Only edit this section if you know what you're doing!"
+    },
+    "options_updatesLastChecked": {
+        "message": "Updates last checked: "
+    },
+    "options_updatesLastCheckedNever": {
+        "message": "never"
+    },
+    "options_userRulesListed": {
+        "message": "HTTPS Everywhere User Rules"
+    },
+    "prefs_export_settings": {
+        "message": "Eksporta iestat\u012bjumi"
+    },
+    "prefs_reset_defaults": {
+        "message": "Atiestat\u012bt uz noklus\u0113juma v\u0113rt\u012bb\u0101m"
+    },
+    "prefs_reset_defaults_message": {
+        "message": "This will reset each ruleset to its default state. Continue?"
+    }
+}

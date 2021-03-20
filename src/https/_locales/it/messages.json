@@ -1,0 +1,212 @@
+{
+    "about_add_new_rule": {
+        "message": "Aggiungi una nuova regola"
+    },
+    "about_ext_description": {
+        "message": "Cripta il Web! Usa HTTPS automaticamente su numerosi siti."
+    },
+    "about_ext_name": {
+        "message": "HTTPS Everywhere"
+    },
+    "about_rulesets_version": {
+        "message": "Versione set di regole per"
+    },
+    "about_title": {
+        "message": "Informazioni su HTTPS Everywhere"
+    },
+    "about_version": {
+        "message": "Versione"
+    },
+    "cancel_he_blocking_explainer": {
+        "message": "Breeze noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version."
+    },
+    "go_back": {
+        "message": "Go Back"
+    },
+    "no_https_disclaimer": {
+        "message": "WARNING: If you choose to continue to this page insecurely, Breeze cannot protect your privacy and security.\nNEVER ENTER ANY PERSONAL INFORMATION INTO A SITE THAT DOES NOT SUPPORT HTTPS\nAll of your activity on this site including the pages you visit, any passwords, credit card info, or personal details manually entered will be visible in plain text to any servers or individuals listening in the middle and should be assumed compromised."
+    },
+    "cancel_he_blocking_network": {
+        "message": "attacchi di declassamento della rete"
+    },
+    "cancel_http_once": {
+        "message": "Apri pagina insicura solo per questa sessione"
+    },
+    "cancel_open_page": {
+        "message": "Apri pagina non sicura"
+    },
+    "chrome_add_new_rule": {
+        "message": "Aggiungi una nuova regola per questo sito"
+    },
+    "chrome_add_rule": {
+        "message": "Aggiungi una regola per questo sito"
+    },
+    "chrome_always_https_for_host": {
+        "message": "Usa sempre https per questo host"
+    },
+    "chrome_disable_on_this_site": {
+        "message": "Disattiva HTTPS Everywhere per questo sito"
+    },
+    "chrome_enable_on_this_site": {
+        "message": "Attiva HTTPS Everywhere per questo sito"
+    },
+    "chrome_experimental_rules": {
+        "message": "Regole sperimentali"
+    },
+    "chrome_experimental_rules_description": {
+        "message": "Possono causare avvisi o rotture. Normalmente disabilitato."
+    },
+    "chrome_hide_advanced": {
+        "message": "Nascondi avanzate"
+    },
+    "chrome_host": {
+        "message": "Host:"
+    },
+    "chrome_redirect_to": {
+        "message": "Reindirizza a"
+    },
+    "chrome_regex": {
+        "message": "Regex equivalente"
+    },
+    "chrome_rule_name": {
+        "message": "Nome regola"
+    },
+    "chrome_settings_for_this_site_explained": {
+        "message": "Mentre visiti altri siti web, puoi cambiare le tue preferenze per quello specifico sito."
+    },
+    "chrome_settings_for_this_site_header": {
+        "message": "Impostazioni per questo sito."
+    },
+    "chrome_settings_for_this_site_subheader": {
+        "message": "Cambia le tue preferenze per le connessioni criptate."
+    },
+    "chrome_show_advanced": {
+        "message": "Mostra avanzate"
+    },
+    "chrome_stable_rules": {
+        "message": "Regole stabili"
+    },
+    "chrome_stable_rules_description": {
+        "message": "Forza connessione criptate a questi siti:"
+    },
+    "chrome_status_cancel_button": {
+        "message": "Annulla"
+    },
+    "menu_donate_eff_imperative": {
+        "message": "Dona alla EFF"
+    },
+    "menu_encryptAllSitesEligibleOff": {
+        "message": "Encrypt All Sites Eligible \u00e8 DISATTIVO"
+    },
+    "menu_encryptAllSitesEligibleOn": {
+        "message": "Encrypt All Sites Eligible \u00e8 ATTIVO"
+    },
+    "menu_globalDisable": {
+        "message": "HTTPS Everywhere \u00e8 DISATTIVATO"
+    },
+    "menu_globalEnable": {
+        "message": "HTTPS Everywhere \u00e8 ATTIVO"
+    },
+    "menu_httpNoWhereExplainedAllowed": {
+        "message": "Le richieste non criptate sono al momento consentite"
+    },
+    "menu_httpNoWhereExplainedBlocked": {
+        "message": "Le richieste non criptate sono al momento bloccate"
+    },
+    "menu_httpNoWhereMore": {
+        "message": "Questa modalit\u00e0 blocca i contenuti e le richieste non criptati"
+    },
+    "menu_observatory": {
+        "message": "Preferenze Osservatorio SSL"
+    },
+    "menu_seeLess": {
+        "message": "Vedi di meno"
+    },
+    "menu_seeMore": {
+        "message": "Vedi di pi\u00f9"
+    },
+    "menu_showCounter": {
+        "message": "Mostra contatore"
+    },
+    "menu_viewAllRules": {
+        "message": "Vedi tutte le regole"
+    },
+    "onboarding_footer": {
+        "message": "HTTPS Everywhere \u00e8 un progetto di EFF"
+    },
+    "onboarding_header": {
+        "message": "HTTPS Everywhere \u00e8 stato aggiornato!"
+    },
+    "onboarding_intro": {
+        "message": "Cripta il Web! Usa HTTPS automaticamente su numerosi siti."
+    },
+    "options_addDisabledSite": {
+        "message": "Aggiungi sito disattivato"
+    },
+    "options_addUpdateChannel": {
+        "message": "Aggiungi canale di aggiornamento"
+    },
+    "options_advancedSettings": {
+        "message": "Impostazioni Avanzate"
+    },
+    "options_autoUpdateRulesets": {
+        "message": "Aggiorna automaticamente regole"
+    },
+    "options_debuggingRulesets": {
+        "message": "Debug delle regole (avanzato)"
+    },
+    "options_delete": {
+        "message": "Canc"
+    },
+    "options_disabledUrlsListed": {
+        "message": "Siti disattivati per HTTPS Everywhere"
+    },
+    "options_enableMixedRulesets": {
+        "message": "Attiva regole per contenuti misti"
+    },
+    "options_enterDisabledSite": {
+        "message": "Inserisci sito disattivato"
+    },
+    "options_enterUpdateChannelName": {
+        "message": "Inserisci il nome del canale"
+    },
+    "options_generalSettings": {
+        "message": "Impostazioni generali"
+    },
+    "options_settings": {
+        "message": "Impostazioni"
+    },
+    "options_showDevtoolsTab": {
+        "message": "Mostra scheda Sviluppo"
+    },
+    "options_storedRulesetsVersion": {
+        "message": "Versione regole memorizzate:"
+    },
+    "options_update": {
+        "message": "Aggiorna"
+    },
+    "options_updateChannels": {
+        "message": "Canali di aggiornamento"
+    },
+    "options_updateChannelsWarning": {
+        "message": "Attenzione: l'aggiunta di canali di aggiornamento pu\u00f2 causare il dirottamento del browser da parte di aggressori. Modifica questa sezione solo se sai cosa stai facendo!"
+    },
+    "options_updatesLastChecked": {
+        "message": "Ultimo controllo aggiornamenti:"
+    },
+    "options_updatesLastCheckedNever": {
+        "message": "mai"
+    },
+    "options_userRulesListed": {
+        "message": "Regole utente di HTTPS Everywhere"
+    },
+    "prefs_export_settings": {
+        "message": "Esporta impostazioni"
+    },
+    "prefs_reset_defaults": {
+        "message": "Ripristina la configurazione predefinita"
+    },
+    "prefs_reset_defaults_message": {
+        "message": "Ci\u00f2 reimposter\u00e0 ogni regola al suo stato predefinito. Continuare?"
+    }
+}
