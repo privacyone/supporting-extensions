@@ -257,9 +257,6 @@ browser.runtime.onInstalled.addListener(async (details) => {
   await awaitStore();
   await checkIfProtected(store.getState());
   switch (details.reason) {
-    case 'install':
-      await browser.runtime.openOptionsPage();
-      break;
     case 'update':
       // Validate Settings to get new settings (if any).
       store.dispatch<any>(validateSettings());
